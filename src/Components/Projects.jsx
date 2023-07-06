@@ -95,7 +95,7 @@ export const Projects = () => {
                 >
                   <h2>Projects</h2>
                   <p>Some of my own software projects!</p>
-                  <Tab.Container id="projects-tabs" defaultActiveKey="second">
+                  <Tab.Container id="projects-tabs" defaultActiveKey="first">
                     <Nav
                       variant="pills"
                       className="nav-pills mb-5 justify-content-center align-items-center"
